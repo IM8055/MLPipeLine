@@ -1,6 +1,6 @@
 # Machine Learning Pipe Line for a Non traditional Dataset
 
-The main goal of this project is to classify whether a startup's current status is in operating status or acquired status or closed status using various features available in investment venture capital kaggle dataset.
+The main goal of this project is to classify whether a startup's current status is in operating status, acquired status or closed status using various features available in investment venture capital kaggle dataset.
 
 This repository has the files required  for achieving the project goal.
 
