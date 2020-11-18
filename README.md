@@ -12,4 +12,4 @@ The required folder structure in Google Drive to run the jupyter notebook and sa
     - MLPipeLine.ipynb
     - investments_VC.csv
 
-Please read this [medium article] (https://medium.com/@im80554coding/end-to-end-machine-learning-pipeline-on-a-non-traditional-data-set-838732d7ac3d) for code walk through and logic. 
+Please read this [medium article](https://medium.com/@im80554coding/end-to-end-machine-learning-pipeline-on-a-non-traditional-data-set-838732d7ac3d) for code walk through and logic. 
